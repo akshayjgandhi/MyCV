@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My CV</string>
+    <string name="try_again">Something went wrong. Please try again.</string>
+    <string name="summary">Summary</string>
+    <string name="skills">Skills</string>
+    <string name="work">Work</string>
+    <string name="education">Education</string>
+</resources>
